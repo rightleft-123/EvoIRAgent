@@ -1,0 +1,62 @@
+[
+    {
+        "gt_image_path": "/data/zkl/AgenticIR/dataset/haze/RESIDE-6k/GT/84.jpg",
+        "lq_image_path": "/data/zkl/AgenticIR/dataset/haze/RESIDE-6k/hazy/84.jpg",
+        "degradation_info": [
+            {
+                "degradation_global": "haze",
+                "severity_global": "medium",
+                "degradation_local": {
+                    "severity_top_left": "medium",
+                    "detail_desc_top_left": "The image exhibits medium haze degradation characterized by reduced contrast where distant objects appear grayish-white and nearby objects remain relatively clear, along with overall whitening and faded edge details, particularly around the waterfront structures and distant buildings. This degradation is most evident in the blurred distinction between the far-off apartment buildings and the hazy atmosphere enveloping the scene, as well as the muted colors and softened edges of the structures near the water.",
+                    "severity_top_right": "high",
+                    "detail_desc_top_right": "The image exhibits high haze degradation characterized by reduced contrast where distant objects appear grayish-white, unchanged saturation with a grayish-white tint, overall whitening affecting brightness, and faded edge details with blurred halos around point light sources. This degradation is particularly evident in the distant buildings and trees, where the lack of contrast and whitening effect makes them appear washed out and less distinct compared to the clearer, nearer structures and greenery.",
+                    "severity_bottom_left": "medium",
+                    "detail_desc_bottom_left": "The image exhibits medium haze degradation characterized by reduced contrast where distant objects appear grayish-white and nearby objects remain relatively clear, along with overall whitening and faded edge details, particularly around the circular structures and the distant buildings. This degradation is most evident in the background where the high-rise buildings and far trees lose definition and blend into a grayish-white haze, while the foreground structures near the water retain sharper outlines.",
+                    "severity_bottom_right": "medium",
+                    "detail_desc_bottom_right": "The image exhibits medium haze degradation characterized by unchanged contrast where distant objects appear grayish-white and nearby objects remain relatively clear, unchanged saturation with a grayish, whitish tint, overall whitening and altered brightness where dark areas become brighter and bright areas darker, faded edge details, and blurred halos around point light sources.\n\nThis degradation is particularly noticeable in the distant buildings and trees, where the grayish-white hue and reduced contrast make them appear less distinct, while the nearby structures and greenery retain more clarity, supporting the assessment of medium haze severity."
+                }
+            }
+        ]
+    },
+    {
+        "gt_image_path": "/data/zkl/AgenticIR/dataset/synthesis/LSDIR/gt/0000203.png",
+        "lq_image_path": "/data/zkl/AgenticIR/dataset/synthesis/LSDIR/jpeg compression artifact/1.png",
+        "degradation_info": [
+            {
+                "degradation_global": "jpeg compression artifact",
+                "severity_global": "medium",
+                "degradation_local": {
+                    "severity_top_left": "high",
+                    "detail_desc_top_left": "The image exhibits a high severity of JPEG compression artifacts, characterized by noticeable blocking effects with brightness jumps at the boundaries and a block-like structure, along with color blending and chroma smearing that creates color distortion and visible color blocks, particularly around the military vehicles and the building's architectural details.\n\nThese degradations are most prominent in the flat, uniform areas of the military vehicles and the building's facade, where the compression algorithm's block-based processing is more evident, leading to visible discontinuities and color inaccuracies.",
+                    "severity_top_right": "high",
+                    "detail_desc_top_right": "The image exhibits a high severity of JPEG compression artifacts, characterized by pronounced blocking effects with brightness and chromaticity jumps at the boundaries, block-like structures, and noticeable color blending with chroma smearing, particularly around the military vehicles and the building's architectural details.\n\nThese degradations are most prominent in areas of high contrast and intricate textures, such as the edges of the vehicles, the building's ornate facade, and the street surface, where the compression algorithm struggles to maintain smooth transitions and fine details.",
+                    "severity_bottom_left": "high",
+                    "detail_desc_bottom_left": "The image exhibits a high severity of JPEG compression artifacts, characterized by pronounced blocking effects with brightness and chromaticity jumps at the boundaries, block-like structures, and noticeable ringing artifacts around the edges, particularly evident on the military vehicles and the building facade.\n\nThese degradations are most prominent in areas with high contrast and detailed textures, such as the edges of the vehicles and the architectural details of the building, where the compression algorithm struggles to maintain smooth transitions and fine details.",
+                    "severity_bottom_right": "high",
+                    "detail_desc_bottom_right": "The image exhibits a high severity of JPEG compression artifacts, characterized by prominent blocking effects with brightness and chromaticity jumps at the boundaries, block-like structures, and noticeable color blending with distorted chroma smearing, particularly around high-contrast edges and detailed textures such as the military vehicles and architectural elements. These degradations are most evident on the intricate details of the vehicles' surfaces and the building's facade, where the compression algorithm struggles to maintain smooth transitions and fine details, resulting in visible grid-like patterns and color inconsistencies."
+                }
+            }
+        ]
+    },
+    {
+        "gt_image_path": "/data/zkl/AgenticIR/dataset/rain/Rain13K/target/95.jpg",
+        "lq_image_path": "/data/zkl/AgenticIR/dataset/rain/Rain13K/input/95.jpg",
+        "degradation_info": [
+            {
+                "degradation_global": "rain",
+                "severity_global": "very high",
+                "degradation_local": {
+                    "severity_top_left": "very high",
+                    "detail_desc_top_left": "The image exhibits slender, short rain strips/streams with a disorderly vertical and inclined directionality, strong specular highlights due to lighting, decreased clarity, and a subtle mist/fogging effect. This degradation is prominently visible across the entire scene, particularly obscuring the background buildings and palm trees, with the rain streaks and reflections intensifying the visual distortion under the bright outdoor lighting.",
+                    "severity_top_right": "very high",
+                    "detail_desc_top_right": "The image exhibits slender, short rain strips/streams with a predominantly vertical directionality, strong specular highlights due to lighting, and a noticeable decrease in clarity, accompanied by a subtle mist/fogging effect. This degradation is particularly evident across the entire scene, where the heavy rainfall obscures the background buildings and palm trees, with the reflections on the wet surfaces enhancing the specular highlights under bright lighting conditions.",
+                    "severity_bottom_left": "very high",
+                    "detail_desc_bottom_left": "The image exhibits slender, short rain strips/streams with a predominantly vertical directionality, strong specular highlights due to lighting, and a decreased clarity without obvious mist or fogging effects. This degradation is evident across the entire scene, particularly noticeable as the rain streaks obscure the view of the Riviera hotel and surrounding palm trees, with the bright reflections indicating intense light interaction.",
+                    "severity_bottom_right": "very high",
+                    "detail_desc_bottom_right": "The image exhibits slender, short rain strips with a predominantly vertical directionality, strong specular highlights due to lighting, and a noticeable decrease in clarity, accompanied by a subtle mist/fogging effect. This degradation is evident throughout the scene, particularly as the rain streaks obscure the view of the buildings and palm trees, with the bright reflections enhancing the visibility of the rain against the clear sky."
+                }
+            }
+        ]
+    }
+]

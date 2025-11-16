@@ -1,0 +1,259 @@
+[
+    {
+        "super-resolution": {
+            "diffbir": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "xrestormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "swinir_gan": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "swinir_psnr": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "hat": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "Total execution cnt": 0
+        },
+        "denoising": {
+            "xrestormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "swinir_15": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "swinir_50": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "mprnet": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "maxim": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "restormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "Total execution cnt": 0
+        },
+        "motion deblurring": {
+            "restormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "mprnet": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "maxim": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "xrestormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "Total execution cnt": 0
+        },
+        "defocus deblurring": {
+            "drbnet": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "restormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "ifan": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "Total execution cnt": 0
+        },
+        "deraining": {
+            "maxim": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "xrestormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "restormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "mprnet": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "Total execution cnt": 0
+        },
+        "dehazing": {
+            "xrestormer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "ridcp": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "dehazeformer": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "maxim": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "Total execution cnt": 0
+        },
+        "brightening": {
+            "histogram_equalization": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "gamma_correction": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "constant_shift": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "Total execution cnt": 0
+        },
+        "jpeg compression artifact removal": {
+            "fbcnn_blind": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "fbcnn_5": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "fbcnn_90": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "swinir_40": {
+                "Full-Ref Score": 0.0,
+                "Non-Ref Score": 0.0,
+                "VLM-Ref Score": 0.0,
+                "Aesthetic-Ref Score": 0.0,
+                "Efficiency Score": 0.0
+            },
+            "Total execution cnt": 0
+        }
+    }
+]
